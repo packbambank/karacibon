@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="We’ll be back soon!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Sorry for the inconvenience but we’re performing some maintenance at the moment. If you need to you can always contact us, otherwise we’ll be back online shortly!
         </p>
       </main>
 
