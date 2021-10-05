@@ -1,0 +1,2 @@
+facebook.com, 3500008330012952, DIRECT, c3e20eee3f780d68
+mopub.com, 3220bef1e3b04703a02f0f64aaae641a, DIRECT, 74b46c0ea83967ca
